@@ -1,2 +1,4 @@
 #test repo...
 print("abc")
+
+print ("nowa komenda")
